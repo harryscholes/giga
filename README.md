@@ -1,2 +1,9 @@
 # giga
-Nextflow pipeline to predict CATH, Gene3D and FunFam domains in gigascale protein sequence data sets
+
+Nextflow pipelines to:
+
+- predict CATH superfamily domains using Gene3D,
+- predict FunFam domains, and
+- cluster domain sequences
+
+in gigascale protein sequence data sets.
